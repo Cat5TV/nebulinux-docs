@@ -1,11 +1,10 @@
-Nebulinux Documentation
-=======================
+Welcome to Nebulinux
+====================
 
-Test:
+Introduction
+------------
 
-    import project
-    # Get your stuff done
-    project.do_stuff()
+This is Nebulinux.
 
 Features
 --------
