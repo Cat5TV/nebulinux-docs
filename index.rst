@@ -4,32 +4,26 @@ Welcome to Nebulinux
 Introduction
 ------------
 
-This is Nebulinux.
+Nebulinux brings Nextcloud to the ODROID CloudShell2 platform, with redundant data storage and an easy setup.
 
-Features
---------
+Important Links
+---------------
 
-- This
-
-Installation
-------------
-
-Install $project by running:
-
-    install project
+- Support the project: https://patreon.com/nebulinux
+- Web site: https://nebulinux.com
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: https://github.com/cat5tv/nebulinux/issues
+- Source Code: https://github.com/cat5tv/nebulinux
 
 Support
 -------
 
-If you are having issues, please let us know.
+If you are having issues, please let me know.
 
 License
 -------
 
-The project is licensed.
+GNU AGPLv3 https://www.gnu.org/licenses/agpl-3.0.en.html
