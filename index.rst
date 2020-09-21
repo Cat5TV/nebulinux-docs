@@ -9,14 +9,20 @@ Nebulinux brings Nextcloud to the ODROID CloudShell2 platform, with redundant da
 Important Links
 ---------------
 
-- Support the project: https://patreon.com/nebulinux
-- Web site: https://nebulinux.com
+- Support the project: https://patreon.com/nebulinux/
+- Web site: https://nebulinux.com/
+- Nextcloud Documentation: https://docs.nextcloud.com/
 
-Contribute
-----------
+Contribute to Documentation
+---------------------------
 
-- Issue Tracker: https://github.com/cat5tv/nebulinux/issues
-- Source Code: https://github.com/cat5tv/nebulinux
+- Source Code: https://github.com/cat5tv/nebulinux-docs/
+
+Contribute to Project
+---------------------
+
+- Issue Tracker: https://github.com/cat5tv/nebulinux/issues/
+- Source Code: https://github.com/cat5tv/nebulinux/
 
 Support
 -------
